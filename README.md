@@ -1,2 +1,3 @@
 # crt-internship-task-2
-task 2 of my internship
+# Music Player app
+this is my task 2 of Codingraja technologies Internship
